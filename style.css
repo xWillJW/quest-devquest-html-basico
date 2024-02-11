@@ -1,0 +1,16 @@
+.roupa{
+    border: solid 1px #bb86fc;
+    background-color: #bb86fc;
+    color: aliceblue;
+}
+
+.movel{
+    background-color: #00c4b4;
+    border: solid 1px #00c4b4;
+    color: aliceblue;
+}
+.casa td{
+    border: solid 1px #424250;
+    background-color: #424250;
+    color: aliceblue;
+}
